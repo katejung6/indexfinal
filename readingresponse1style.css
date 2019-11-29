@@ -1,0 +1,21 @@
+body{
+margin: 30px;
+}
+
+
+h1{
+	font-family: Acumin Pro;
+	font-size: 20px;
+	text-align: center;
+}
+
+h2{
+	font-family: Acumin Pro;
+	font-size: 15px;
+	text-align: center;
+}
+
+p #test{
+font-family: Acumin Pro;
+font-size: 14px;
+}
